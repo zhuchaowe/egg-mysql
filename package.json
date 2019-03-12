@@ -13,7 +13,7 @@
     "database"
   ],
   "dependencies": {
-    "ali-rds": "git+https://github.com/zhuchaowe/my-ali-rds.git"
+    "ali-rds": "git+https://github.com/zhuchaowe/ali-rds.git"
   },
   "devDependencies": {
     "autod": "^3.0.1",
